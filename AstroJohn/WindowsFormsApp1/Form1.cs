@@ -128,10 +128,5 @@ namespace WindowsFormsApp1
 
             gameTimer.Start();
         }
-
-        private void astro_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
